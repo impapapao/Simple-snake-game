@@ -10,4 +10,6 @@
 
 
 ### TODO
-- Make a Main Menu 
+- Make a Main Menu
+- make the snake looks like a snake
+- top scorer
