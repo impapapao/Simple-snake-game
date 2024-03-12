@@ -6,7 +6,6 @@ class SNAKE:
         self.body = [Vector2(5,10), Vector2(4,10), Vector2(3,10)]
         self.direction = Vector2(0,0)
         self.new_block = False
-
         self.crunch_sound = pygame.mixer.Sound('Assets/crunch2.wav')
     
     def draw_snake(self):
